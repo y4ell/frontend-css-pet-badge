@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+.pet-badge {
+    background-color: #EED7C5;
+    display: inline-block;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.15);
+}
+
+#pet-photo {
+    border-radius: 50%;
+    border: 8px solid #B36A5E;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.pet-name {
+    color: #B36A5E;
+    font-family: 'Oleo Script Swash Caps', 'Arial',sans-serif;
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+
+}
